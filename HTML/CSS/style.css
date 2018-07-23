@@ -1,0 +1,50 @@
+/*p{ 
+      
+color:red;
+font-weight:bold;
+        font-size:10024px;
+        
+    } */
+
+p{
+    color:greenyellow;
+}
+
+#body{
+    background: antiquewhite;
+}
+
+header{
+    color: red;
+}
+
+dev p {
+    color:antiquewhite;
+    
+}
+
+#first-para {
+    
+    color:antiquewhite;
+}
+
+.first-para {
+    color: aqua;
+}
+
+div {
+    border: 1px solid black;
+    background: antiquewhite;
+    color: aliceblue;
+    width: 50%;
+    float: left;
+    border-radius: 25px;`
+    margin: 40px;
+    padding: 20px;
+}
+
+div ul {
+    list-style-type: none;
+    list-style-type: square;
+    
+}

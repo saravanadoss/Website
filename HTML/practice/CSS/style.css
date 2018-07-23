@@ -1,0 +1,43 @@
+#page-title {
+    
+text-align: center;
+
+}
+
+
+#picture-container {
+    
+border: 1px solid black;
+width: 400px;
+height: 400px;
+margin: auto;
+    
+}
+
+#image {
+    border: 2px soild red;
+    border-radius: 5px;
+}
+
+#picture-css {
+    
+    background: url(i);
+    
+}
+    
+#hovers {
+width:200px;
+height:200px;
+border:10px solid black;
+}
+
+#hovers h2 {
+    
+    text-align: center;
+}
+
+#hovers:hover {
+    background-color:#000;
+    border: 10px solid red;
+    color:white;
+}
